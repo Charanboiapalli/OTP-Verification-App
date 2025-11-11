@@ -1,4 +1,4 @@
-# Project -- OTP verification app
+# Project - OTP verification app
 
 import streamlit as st # for frontend
 import smtplib         # send emails using smtp
